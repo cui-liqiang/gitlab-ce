@@ -14,7 +14,7 @@ gem 'sprockets', '~> 2.12.3'
 gem "default_value_for", "~> 3.0.0"
 
 # Supported DBs
-gem "mysql2", '~> 0.3.16', group: :mysql
+gem "mysql2", '~> 0.3.16'
 #gem "pg", '~> 0.18.2', group: :postgres
 
 # Authentication libraries
