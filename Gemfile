@@ -15,7 +15,7 @@ gem "default_value_for", "~> 3.0.0"
 
 # Supported DBs
 gem "mysql2", '~> 0.3.16', group: :mysql
-gem "pg", '~> 0.18.2', group: :postgres
+#gem "pg", '~> 0.18.2', group: :postgres
 
 # Authentication libraries
 gem 'devise',                 '~> 3.5.3'
